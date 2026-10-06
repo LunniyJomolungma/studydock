@@ -5,6 +5,8 @@
 
 **Java 21 · Swing desktop app · Deadline-aware planning · Local storage**
 
+[![Build and tests](https://github.com/LunniyJomolungma/studydock/actions/workflows/ci.yml/badge.svg)](https://github.com/LunniyJomolungma/studydock/actions/workflows/ci.yml)
+
 [Quick start](#quick-start) · [Planning rules](#planning-rules) · [Design notes](docs/DESIGN.md) · [Roadmap](docs/ROADMAP.md)
 
 </div>
