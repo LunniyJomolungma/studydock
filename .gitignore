@@ -1,0 +1,8 @@
+/build/
+/data/
+*.class
+*.jar
+*.lock
+*.tmp
+/study-plan.csv
+.DS_Store
